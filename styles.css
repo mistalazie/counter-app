@@ -1,0 +1,14 @@
+body h1:first-child {
+    margin-bottom: 0;
+}
+
+.counter-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10vh;
+    height: 10vh;
+    margin:0;
+    font-size:xx-large
+}
+
